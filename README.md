@@ -13,5 +13,5 @@
 - **[Ford-Fulckerson algorythm](https://github.com/Developer-dreamer/ford-fulkerson-algorithm)**: Brief description of what the project does.
 
 📫 How to reach me:
-- Email: [podolancukserafim@gmail,com](mailto:podolancukserafim@gmail.com)
+- Email: [podolancukserafim@gmail.com](mailto:podolancukserafim@gmail.com)
 - LinkedIn: [Serafym Podolyanchuk](www.linkedin.com/in/serafym-podolianchuk-8938922aa)

@@ -9,8 +9,8 @@
 🌱 Currently learning C++ and exploring new technologies.
 
 🛠️ Some of my projects:
-- **[Simple text editor in C](https://github.com/Developer-dreamer/paradigms-a1)**: Brief description of what the project does.
-- **[Ford-Fulckerson algorythm](https://github.com/Developer-dreamer/ford-fulkerson-algorithm)**: Brief description of what the project does.
+- **[Simple text editor in C](https://github.com/Developer-dreamer/paradigms-a1)**
+- **[Ford-Fulckerson algorythm](https://github.com/Developer-dreamer/ford-fulkerson-algorithm)**
 
 📫 How to reach me:
 - Email: [podolancukserafim@gmail.com](mailto:podolancukserafim@gmail.com)

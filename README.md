@@ -12,7 +12,7 @@
 - **[Simple text editor in C](https://github.com/Developer-dreamer/paradigms-a1)**
 - **[Ford-Fulckerson algorythm](https://github.com/Developer-dreamer/ford-fulkerson-algorithm)**
 - **[Simple server configurations in multipass](https://github.com/Developer-dreamer/simple-servers)**
-- **[Flappy bird game build in C++ with SFML frameqirk](https://github.com/Developer-dreamer/Flappy-Bird-SFML)**
+- **[Flappy bird game build in C++ with SFML framework](https://github.com/Developer-dreamer/Flappy-Bird-SFML)**
 
 📫 How to reach me:
 - Email: [podolancukserafim@gmail.com](mailto:podolancukserafim@gmail.com)

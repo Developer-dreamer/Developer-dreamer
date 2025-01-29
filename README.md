@@ -8,6 +8,8 @@
 
 🌱 Currently learning C++ and exploring new technologies.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitkoVtori&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+
 🛠️ Some of my projects:
 - **[Simple text editor in C](https://github.com/Developer-dreamer/paradigms-a1)**
 - **[Ford-Fulckerson algorythm](https://github.com/Developer-dreamer/ford-fulkerson-algorithm)**

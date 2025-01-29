@@ -8,7 +8,9 @@
 
 🌱 Currently learning C++ and exploring new technologies.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-dreamer&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats-Developer-dreamer.vercel.app/api?username=Developer-dreamer&hide=stars,issues" alt="Serafym's GitHub stats"/>
+</p>
 
 🛠️ Some of my projects:
 - **[Simple text editor in C](https://github.com/Developer-dreamer/paradigms-a1)**

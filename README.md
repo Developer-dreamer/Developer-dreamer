@@ -3,14 +3,10 @@
 🎓 I'm a software engineering student at Kyiv School of Economics.
 
 🔧 I have basic knowledge and experience in:
-- **Programming Languages**: C, C#, Python, C++
-- **Databases**: MySQL
+- **Programming Languages**: C/C++, C#, Python
+- **Databases**: MySQL, Mongo, SQLserver
 
-🌱 Currently learning C++ and exploring new technologies.
-
-<p align="center">
-  <img src="https://github-readme-stats-Developer-dreamer.vercel.app/api?username=Developer-dreamer&hide=stars,issues" alt="Serafym's GitHub stats"/>
-</p>
+🌱 Currently learning C# and ASP.NET Core framework, and exploring new technologies.
 
 🛠️ Some of my projects:
 - **[Simple text editor in C](https://github.com/Developer-dreamer/paradigms-a1)**

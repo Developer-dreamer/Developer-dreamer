@@ -1,54 +1,70 @@
-# Hi, I'm Serafym! 🚀
+# Hey, I'm Serafym.
 
-### Backend Engineer | Go & Cloud Infrastructure | AI Researcher
+**Backend & Systems Engineer | Go · Python · Distributed Systems**
 
-I don't just write code; I design systems. Currently focused on building **distributed architectures**, **high-load backends**, and **AI orchestration tools**.
+I build software to solve problems I'm curious about — from distributed backends and AI-powered workflows to developer tools and computer vision experiments.
 
-I bridge the gap between abstract computer science theory and production-grade engineering.
+My interests lie at the intersection of **systems engineering, infrastructure, and practical AI**. I enjoy understanding how things work under the hood, questioning architectural decisions, and turning ideas into usable products.
 
----
-
-### 🛠 Tech Stack
-
-* **Core:** ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-* **Infrastructure & Cloud:** ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-* **Data & Messaging:** ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-* **Observability:** ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
+Currently building [Dorker](https://dorker.space), exploring computer vision for sports analytics, and learning more about the systems behind modern software.
 
 ---
 
-### 🔭 Current Flagship Project
+### What I'm working on
 
-#### 1. [ai-orchestrator](https://github.com/Developer-dreamer/ai-orchestrator)
-*A distributed system for orchestrating AI workflows with high reliability.*
-* **Architecture:** Event-Driven (Redis Streams).
-* **Reliability:** Implements **Transactional Outbox Pattern** to ensure data consistency.
-* **Observability:** Full tracing with OpenTelemetry & Grafana.
-* **Infra:** Deployment to GCP via Terraform (In Progress).
+**[Dorker](https://dorker.space)** — *AI-assisted job application platform*
 
-#### 2. [google-analytics-clone](https://github.com/Developer-dreamer/google-analytics-clone)
-*A high-throughput microservices system for real-time user event tracking.*
-* **High Load Ready:** Designed to handle concurrent data ingestion efficiently using Go routines.
-* **Microservices:** Decoupled architecture separating data collection, processing, and storage.
-* **Tech:** Go, PostgreSQL, Redis, REST APIs.
-* **Focus:** Optimized for write-heavy workloads and scalable data processing.
+A project focused on making the job application process more efficient, transparent, and personalized.
 
----
+- Job discovery, filtering, and candidate-job matching
+- Evidence-based generation of application materials
+- AI integration with an emphasis on reliability and cost efficiency
+- End-to-end product development, from backend architecture to deployment
 
-### 👨‍🏫 Beyond Coding
+**[AI Orchestrator](https://github.com/Developer-dreamer/ai-orchestrator)** — *Distributed AI workflow processing*
 
-* **Teaching Assistant @ KSE:** I teach **Algorithms & Data Structures** to 200+ students. I know my Big O, and I know how to explain complex concepts simply.
-* **Founding Engineer Mindset:** I thrive in environments where I need to take ownership of the architecture, from DB schema to CI/CD pipelines.
+A Go-based system for asynchronous AI task processing.
+
+- Event-driven microservices using Redis Streams
+- Transactional Outbox for reliable event publishing
+- Concurrent worker processing and asynchronous result delivery
+- Distributed tracing, metrics, and observability
 
 ---
 
-### ⚡ Stats
+### Engineering interests
 
-![Serafym's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-dreamer&show_icons=true&theme=radical)
+- **Backend:** API design, concurrency, data processing, reliability
+- **Systems:** Distributed architectures, messaging, synchronization, performance
+- **Infrastructure:** Cloud deployment, CI/CD, observability, automation
+- **AI:** LLM integrations, workflow orchestration, computer vision
+
+### Technologies I work with
+
+#### Languages:
+
+[![Langs](https://skillicons.dev/icons?i=go,py,js,&perline=11&theme=dark)](https://skillicons.dev)
+
+#### Databases:
+
+[![DBs](https://skillicons.dev/icons?i=postgres,mongo,redis,sqlite&perline=11&theme=dark)](https://skillicons.dev)
+
+#### Deployment:
+
+[![Deploy](https://skillicons.dev/icons?i=linux,docker,gcp,terraform,git,githubactions&perline=11&theme=dark)](https://skillicons.dev)
+
+And a lot more fascinating tools!
 
 ---
 
-### 📫 Connect with me
+### Beyond engineering
 
-* **LinkedIn:** [Serafym Podolyanchuk](https://www.linkedin.com/in/serafym-podolianchuk-8938922aa)
-* **Email:** [spodolianchuk@kse.org.ua](mailto:spodolianchuk@kse.org.ua)
+I have worked as a **Teaching Assistant at Kyiv School of Economics**, helping students learn Python programming, algorithms, and data structures through practical exercises, code reviews, and problem-solving.
+
+Outside software, I'm interested in physics, mathematics, and volleyball — often looking for connections between them and engineering.
+
+---
+
+### Find me elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/serafym-podolianchuk-8938922aa) · [Dorker](https://dorker.space) · [Email](mailto:spodolianchuk@kse.org.ua)
